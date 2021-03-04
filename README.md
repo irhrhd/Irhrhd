@@ -6,4 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irhrhd&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">Dont Click this lol</a>
+<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">Dont Click this if you hate hackin Click it if you like prodigy and hacking</a>
+
+<ul>
+ <li>List of what to do</li>
+ <li>make a new friend</li>
+ </ul>
+   
