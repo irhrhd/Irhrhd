@@ -10,6 +10,6 @@
 
 <ul>
  <li>List of what to do</li>
- <li><strike>make a new friend</strike>Done</li>
+ <li><strike>make a new friend</strike><p style="color:green">Done.</p></li>
  </ul>
    
